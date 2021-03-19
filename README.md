@@ -1,2 +1,0 @@
-# BootcampBHR
-BootCamp
